@@ -1,3 +1,18 @@
+河南省继续教育专业技术学习刷课浏览器插件
+
+针对刷课过程中视频中间时不时跳出确认窗口的情况
+
+使用方法：
+  建议Edge、chrome浏览器
+    1、打开浏览器
+    2、打开开发者模式（快捷键F12），找到加载解压缩的扩展，找到下载的该项目文件夹，选择，例如：
+      <img width="891" height="196" alt="image" src="https://github.com/user-attachments/assets/733f5494-732b-4919-87ab-2e30a19a5429" />
+        加载成功后会多一个浏览器插件，开启插件按钮
+    3、回到浏览器主页，右上角找到插件按钮，将加载的插件固定在右上角
+    <img width="334" height="225" alt="image" src="https://github.com/user-attachments/assets/d909f33b-f2fd-426d-b4ac-2c26c0d8ddd0" />
+    <img width="343" height="584" alt="image" src="https://github.com/user-attachments/assets/b855da7a-eec0-4d2f-9e56-8dc854596ec8" />
+    启动插件开关，默认为2倍速，打开刷课的视频
+    
 浏览器课程播放辅助插件开发文档
 一、项目概述
 1.1 项目名称
