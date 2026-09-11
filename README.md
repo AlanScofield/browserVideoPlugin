@@ -1,5 +1,6 @@
 # 河南省继续教育专业技术学习刷课浏览器插件
 
+> 河南省继续教育专业技术学习刷课浏览器插件
 > 针对刷课过程中视频中间时不时跳出确认窗口的情况。
 <img width="401" height="358" alt="image" src="https://github.com/user-attachments/assets/27c60046-a7c1-4d42-a7d6-dcb7e616a2b8" />
 
